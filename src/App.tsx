@@ -1,4 +1,4 @@
-import './App.css'
+﻿import './App.css'
 import QuizApp from './pages/Quiz'
 
 function App() {
